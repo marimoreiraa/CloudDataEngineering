@@ -1,0 +1,5 @@
+*.txt
+/iac/.terraform
+/iac/.terraform.lock.hcl
+/iac/terraform.tfstate
+/iaci/terraform.tfstate.backup
